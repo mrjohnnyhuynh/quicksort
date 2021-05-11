@@ -1,1 +1,3 @@
-# quicksort
+# Quicksort
+
+A simple intro lesson
